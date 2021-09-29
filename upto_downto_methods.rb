@@ -8,8 +8,8 @@ puts "liftoff!"
 puts"--------------------------------------------------------------------"
 
 0.upto(5) do |current_level|
-    puts "we are currently on #{current_level}"
     puts "Up"
+    puts "we are currently on #{current_level}"
 end
 puts""
 puts"top"
